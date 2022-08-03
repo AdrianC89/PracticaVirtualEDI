@@ -1,3 +1,3 @@
 # PracticaVirtualEDI
 Clase virtual de EDI
-* agregando contenido
+Aca hice un cambio en el PR
